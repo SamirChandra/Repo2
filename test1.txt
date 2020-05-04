@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 22DE-8A5D
+
+ Directory of D:\GitProjects
+
+04-05-2020  05:22    <DIR>          .
+04-05-2020  05:22    <DIR>          ..
+04-05-2020  05:22                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  723,912,949,760 bytes free
